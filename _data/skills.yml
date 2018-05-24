@@ -1,12 +1,53 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Communication
+  description: Je pense qu'il est important d'avoir une communication la plus libre et bienveillante possible dans une équipe. J'essaie donc de mettre en pratique des principes de bienveillance et de communication non-violente au quotidien.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Langue anglaise
+  description: Je comprends l'anglais courant et technique, oral et écrit. Je suis à l'aise à l'écrit. Mes compétences à l'oral reviennent vite dès qu'il m'est donné de pratiquer.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Expérience utilisateur
+  description: Je sais que l'expérience utilisateur est un élément crucial de toute stratégie d'entreprise. Je sais aussi que les valeurs (même cachées) de l'entreprise se ressentent dans l'UX. J'adapte donc mon comportement en conséquence lorsque je travaille.
+
+- skill: Langages de programmation et frameworks associés
+  families:
+    - Ruby, Ruby on Rails & Jekyll
+    - Python, Flask & Django
+    - Java, Scala & JEE
+    - Javascript (ES5 & 6), NodeJS & Express, MeteorJS & jQuery
+    - C
+    - C#
+    - Perl & Mojolicious
+
+- skill: Développement front-end
+  families:
+    - HTML5 & CSS3
+    - Mustache, Handlebars & Sass
+
+- skill: Outils
+  families:
+    - Virtualenv & Pip
+    - Bundler, Pry, RVM & Rubocop
+    - Gulp
+    - Git & GitHub
+
+- skill: Langages de structuration de données
+  families: JSON, YAML & XML
+
+- skill: Systèmes de gestion de bases de données
+  families:
+  - PostgreSQL, MySQL & SQLite
+  - MongoDB & CouchDB
+
+- skill: Game Engines
+  families:
+  - Godot Engine, Unity, LÖVE 2D & PyGames
+
+- skill: Environnements de développement
+  families:
+  - Linux & Windows
+
+- skill: Autres
+  families:
+  - GAMA (simulation multi-agent)
+  - Protégé (web sémantique, ce template est pas top pour ça d'ailleurs)
+  - Zeppelin (BI et Dataviz)

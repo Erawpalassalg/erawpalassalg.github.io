@@ -1,13 +1,18 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Licence de sociologie
+  uni: Université de Provence
+  year: 2009 &mdash; 2012
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Mention assez bien
+  summary: Spécialité sociologie de l'éducation.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master 1 de sciences de l'éducation
+  uni: Université Rennes 2
+  year: 2012 &mdash; 2013
+
+- degree: Master 2 d'informatique
+  uni: Université Grenoble-Alpes
+  year: 2014 &mdash; 2016
+  awards:
+    - award: Major de promotion
+    - award: Mention très bien
