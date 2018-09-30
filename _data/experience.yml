@@ -1,25 +1,26 @@
 # Jobs
-- company: Contexte, Paris
-  position: Stagiaire développeur web full-stack
-  duration: Mai 2015 &mdash; Aout 2015
-  summary: Développement d'outils et d'applications front et back-end, souvent autour du thème de la visualisation de données (pour des clients et en interne).
-
-- company: Laboratoire d'informatique de Grenoble, équipe MeTAH, Grenoble
-  position: Stagiaire développeur web full-stack
-  duration: Février 2016 &mdash; Juillet 2016
-  summary: Développement d'une application web à l'usage de la recherche en didactique. Seul développeur sur le projet, en collaboration avec un chef de projet, j'ai développé une solution permettant 1) à des enfants de réaliser une dictée négociée sur tablette et 2) aux professeurs de suivre leur avancement en temps réel, à l'aide de plusieurs outils.
-
-- company: Laboratoire d'informatique de Grenobe, équipe MAGMA, Grenoble
-  position: Doctorant en intelligence artificielle
-  duration: Septembre 2016 &mdash; Juillet 2017
-  summary: Modélisation du comportement de la population Australienne dans les Bushfires. Thèse en simulation multi-agent, utilisant le paradigme BDI, visant à aider les décisionnaires Australiens quant à leur stratégie de prévention.
-
-- company: Dual Wielding, Nantes
+- 
+  company: "Contexte, Paris"
+  duration: "Mai 2015 — Aout 2015"
+  position: "Stagiaire développeur web full-stack"
+  summary: "Développement d'outils et d'applications front et back-end, souvent autour du thème de la visualisation de données (pour des clients et en interne)."
+- 
+  company: "Laboratoire d'informatique de Grenoble, équipe MeTAH, Grenoble"
+  duration: "Février 2016 — Juillet 2016"
+  position: "Stagiaire développeur web full-stack"
+  summary: "Développement d'une application web à l'usage de la recherche en didactique. Seul développeur sur le projet, en collaboration avec un chef de projet, j'ai développé une solution permettant 1) à des enfants de réaliser une dictée négociée sur tablette et 2) aux professeurs de suivre leur avancement en temps réel, à l'aide de plusieurs outils."
+- 
+  company: "Laboratoire d'informatique de Grenobe, équipe MAGMA, Grenoble"
+  duration: "Septembre 2016 — Juillet 2017"
+  position: "Doctorant en intelligence artificielle"
+  summary: "Modélisation du comportement de la population Australienne dans les Bushfires. Thèse en simulation multi-agent, utilisant le paradigme BDI, visant à aider les décisionnaires Australiens quant à leur stratégie de prévention."
+- 
+  company: "Dual Wielding, Nantes"
+  duration: "Septembre 2017 — Février 2018"
   position: Associé
-  duration: Septembre 2017 &mdash; Février 2018
-  summary:  Inscription au PEPITE CREER pour monter un studio de jeux vidéo avec un second associé ; le projet ne s'est pas concrétisé.
-
-- company: MyScript, Nantes
-  position: Full Stack Database Engineer
-  duration: Juillet 2017 &mdash; Actuel
-  summary: Réparation et migration des données utilisées par l'entreprise pour l'entrainement des algorithmes de reconnaissance d'écriture.
+  summary: "Inscription au PEPITE CREER pour monter un studio de jeux vidéo avec un second associé ; le projet ne s'est pas concrétisé."
+- 
+  company: "MyScript, Nantes"
+  duration: "Juillet 2017 — Actuel"
+  position: "Full Stack Database Engineer"
+  summary: "Réparation et migration des données utilisées par l'entreprise pour l'entrainement des algorithmes de reconnaissance d'écriture."
