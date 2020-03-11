@@ -1,14 +1,14 @@
-- award: Prix du public
-  organization: PEPITE OZER (Grenoble)
-  year: 2015
-  summary: Notre projet des masteriales 2015 obtient le prix du public.
+#- award: Prix du public
+  #organization: PEPITE OZER (Grenoble)
+  #year: 2015
+  #summary: Notre projet des masteriales 2015 obtient le prix du public.
 
-- award: Challenge PEPITE France
-  organization: PEPITE France
-  year: 2017
-  summary: Lauréat d'un concours vidéo + pitch, obtention d'un séjour tous frais payés pour le Web à Québec avec l'OFQJ.
+#- award: Challenge PEPITE France
+  #organization: PEPITE France
+  #year: 2017
+  #summary: Lauréat d'un concours vidéo + pitch, obtention d'un séjour tous frais payés pour le Web à Québec avec l'OFQJ.
 
-- award: Exposition de Stellar Wrath
-  organization: All Things Open
-  year: 2017
-  summary: Stellar Wrath, un jeu créé pour l'Open Jam, arrive 3ème et est exposé au salon All Things Open (plus gros salon OS de la côte est des US).
+#- award: Exposition de Stellar Wrath
+  #organization: All Things Open
+  #year: 2017
+  #summary: Stellar Wrath, un jeu créé pour l'Open Jam, arrive 3ème et est exposé au salon All Things Open (plus gros salon OS de la côte est des US).

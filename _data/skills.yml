@@ -1,53 +1,31 @@
 # Skills
 - skill: Communication
-  description: Je pense qu'il est important d'avoir une communication la plus libre et bienveillante possible dans une équipe. J'essaie donc de mettre en pratique des principes de bienveillance et de communication non-violente au quotidien.
+  description: Une communication libre et bienveillante est l'élément le plus important d'une équipe fonctionnelle
 
 - skill: Langue anglaise
-  description: Je comprends l'anglais courant et technique, oral et écrit. Je suis à l'aise à l'écrit. Mes compétences à l'oral reviennent vite dès qu'il m'est donné de pratiquer.
+  description: Très bonne compréhension orale et écrite, bonne capacité d'expression à l'écrit
 
 - skill: Expérience utilisateur
-  description: Je sais que l'expérience utilisateur est un élément crucial de toute stratégie d'entreprise. Je sais aussi que les valeurs (même cachées) de l'entreprise se ressentent dans l'UX. J'adapte donc mon comportement en conséquence lorsque je travaille.
+  description: L'expérience utilisateur est un élément crucial de toute stratégie d'entreprise. J'ai conscience que les valeurs véhiculées par l'entreprise et ses employés s'y retrouvent.
+
+- skill: Humilité de l'ingénieur
+  description: Ne pas avoir peur de ne pas savoir et chercher à comprendre pourquoi.
 
 - skill: Langages de programmation et frameworks associés
   families:
     - Ruby, Ruby on Rails & Jekyll
-    - Python, Flask & Django
-    - Java, Scala & JEE
-    - Javascript (ES5 & 6), NodeJS & Express, MeteorJS & jQuery
-    - C
-    - C#
-    - Perl & Mojolicious
-
-- skill: Développement front-end
-  families:
-    - HTML5 & CSS3
-    - Mustache, Handlebars & Sass
+    - Python, Flask
+    - Javascript (ES5 & 6), NodeJS & Express, MeteorJS & JQuery
 
 - skill: Outils
   families:
-    - Virtualenv & Pip
-    - Bundler, Pry, RVM & Rubocop
-    - Gulp
-    - Git & GitHub
-
-- skill: Langages de structuration de données
-  families: JSON, YAML & XML
+    - Vi/vim, shell utilities & Git
 
 - skill: Systèmes de gestion de bases de données
   families:
   - PostgreSQL, MySQL & SQLite
-  - MongoDB & CouchDB
+  - MongoDB
 
 - skill: Game Engines
   families:
-  - Godot Engine, Unity, LÖVE 2D & PyGames
-
-- skill: Environnements de développement
-  families:
-  - Linux & Windows
-
-- skill: Autres
-  families:
-  - GAMA (simulation multi-agent)
-  - Protégé (web sémantique, ce template est pas top pour ça d'ailleurs)
-  - Zeppelin (BI et Dataviz)
+  - Godot Engine, LÖVE 2D & PyGames

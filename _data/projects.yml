@@ -1,26 +1,24 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: Photons
-  role: Développeur, Game Designer et Graphiste
-  duration: 2017 &mdash; Actuel
-  # url: "#"
-  description: Jeu d'arène en multijoueur local, utilisant la lumière et les couleurs comme principaux leviers ludiques.
+#- project: Photons
+  #role: Développeur, Game Designer et Graphiste
+  #duration: 2017 &mdash; Actuel
+  ## url: "#"
+  #description: Jeu d'arène en multijoueur local, utilisant la lumière et les couleurs comme principaux leviers ludiques.
 
-# Springfield Community Outreach Group
-- project: War of Keridor
-  role: Développeur
-  duration: 2018 &mdash; Actuel
-  # url: "#"
-  description: Jeu de stratégie/gestion dans un univers médiéval-fantastique créé par Rod Keller (Canada), à l'origine comme un jeu de plateau. Nous collaborons actuellement pour en faire un jeu vidéo.
+#- project: War of Keridor
+  #role: Développeur
+  #duration: 2018 &mdash; Actuel
+  ## url: "#"
+  #description: Jeu de stratégie/gestion dans un univers médiéval-fantastique créé par Rod Keller (Canada), à l'origine comme un jeu de plateau. Nous collaborons actuellement pour en faire un jeu vidéo.
 
-- project: L'atelier 1D
-  role: Porteur de projet
-  duration: 2018 &mdash; Actuel
-  description: Un club de création de jeux vidéo. L'idée est d'offrir des cours et des temps de pratique (libre ou encadrée), afin de populariser la création vidéoludique comme hobby.
+#- project: L'atelier 1D
+  #role: Porteur de projet
+  #duration: 2018 &mdash; Actuel
+  #description: Un club de création de jeux vidéo. L'idée est d'offrir des cours et des temps de pratique (libre ou encadrée), afin de populariser la création vidéoludique comme hobby.
 
-- project: Dual Wielding
-  role: Porteur de projet associé
-  duration: 2017 &mdash; 2018
-  description: Studio de jeux vidéo qui n'a pas vu le jour, nos quelques jeux réalisés sont disponibles à <a href="https://dualwielding.itch.io/">cette adresse</a>.
+#- project: Dual Wielding
+  #role: Porteur de projet associé
+  #duration: 2017 &mdash; 2018
+  #description: Studio de jeux vidéo qui n'a pas vu le jour, nos quelques jeux réalisés sont disponibles à <a href="https://dualwielding.itch.io/">cette adresse</a>.
